@@ -10,7 +10,7 @@ django-bootstrap3==12.1.0
 idna==2.9
 menuinst==1.4.16
 olefile==0.46
-Pillow==7.1.2
+Pillow==8.1.1
 Pillow-PIL==0.1.dev0
 pycosat==0.6.3
 pycparser==2.20
