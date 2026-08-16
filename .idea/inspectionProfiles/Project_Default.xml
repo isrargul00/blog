@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="ebaysdk" />
+          <option value="geoip2" />
+          <option value="ofxparse" />
+          <option value="passlib" />
+          <option value="polib" />
+          <option value="pydot" />
+          <option value="pyserial" />
+          <option value="pytz" />
+          <option value="pyusb" />
+          <option value="xlwt" />
+          <option value="plaid-python" />
+          <option value="openai" />
+          <option value="PyJWT" />
+          <option value="openpyxl" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
