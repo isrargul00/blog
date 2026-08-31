@@ -17,7 +17,7 @@ pycparser==3.0
 pyOpenSSL==26.4.0
 PySocks==1.7.1
 pytz==2025.2
-pywin32==227
+pywin32==312
 reportlab==4.4.4
 requests==2.34.2
 ruamel-yaml==0.18.15
