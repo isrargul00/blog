@@ -24,6 +24,6 @@ ruamel-yaml==0.18.15
 six==1.17.0
 sqlparse==0.6.0
 tqdm==4.67.1
-urllib3==2.7.0
+urllib3==2.8.0
 win-inet-pton==1.1.0
 wincertstore==0.2
